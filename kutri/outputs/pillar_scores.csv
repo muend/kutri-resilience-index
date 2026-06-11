@@ -1,0 +1,12 @@
+pillar,pillar_score,nominal_weight,ahp_weight
+P1,0.361,0.25,0.3301
+P2,0.555,0.2,0.1867
+P3,0.4828,0.2,0.1867
+P4,0.2881,0.2,0.1867
+P5,0.6295,0.15,0.1097
+
+kutri_nominal_100,43.3251
+kutri_ahp_100,42.0874
+ahp_lambda_max,5.0586
+ahp_CI,0.0147
+ahp_CR,0.0131
