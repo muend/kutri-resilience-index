@@ -1,0 +1,8 @@
+n_iterations,10000
+seed,42
+mean,42.3291
+median,42.3944
+std,2.4092
+ci_low,37.3636
+ci_high,46.783
+scale,100.0

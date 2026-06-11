@@ -1,0 +1,11 @@
+rank,code,indicator_name,pillar,impact_pm
+1,P1.7,Climate Vulnerability (RCP8.5),P1,1.2899
+2,P3.2,Gini Coefficient,P3,1.1263
+3,P4.6,Water-Supply Coverage,P4,0.9895
+4,P3.5,Economic Diversification (1-HHI),P3,0.8989
+5,P4.5,School Capacity Ratio,P4,0.8844
+6,P4.9,Broadband Coverage,P4,0.7343
+7,P2.6,Mean Household Size,P2,0.6477
+8,P2.3,Age Dependency Ratio,P2,0.6306
+9,P3.1,Estimated GDP per Capita,P3,0.4628
+10,P3.4,Employment Rate,P3,0.4293
