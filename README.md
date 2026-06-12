@@ -1,6 +1,6 @@
 # KUTRI — Kaş Urban-Territorial Resilience Index
 
-[![tests](https://github.com/OWNER/kutri/actions/workflows/tests.yml/badge.svg)](https://github.com/OWNER/kutri/actions/workflows/tests.yml)
+[![tests](https://github.com/muend/kutri-resilience-index/actions/workflows/tests.yml/badge.svg)](https://github.com/muend/kutri-resilience-index/actions/workflows/tests.yml)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![license](https://img.shields.io/badge/code-MIT-green)
 
@@ -36,7 +36,7 @@ tests, and documentation so a reviewer can clone, install, test, and reproduce t
 
 | Quantity | Value |
 |----------|-------|
-| **Kaş KUTRI (nominal weights)** | **≈ 43.2 / 100 — Moderate-Low** (engine computes 43.3 from raw bounds; see note) |
+| **Kaş KUTRI (nominal weights)** | **≈ 43.3 / 100 — Moderate-Low** |
 | Kaş KUTRI (AHP eigenvector weights) | ≈ 42.1 / 100 (sensitivity variant) |
 | AHP consistency ratio | CR = 0.0131 < 0.10 (matrix internally consistent) |
 | Weakest pillar | P4 Infrastructure (0.288) |
@@ -72,7 +72,7 @@ the behaviour an arithmetic mean would hide (OECD/JRC, 2008; Cutter et al., 2010
 
 ```bash
 git clone https://github.com/muend/kutri-resilience-index.git
-cd kutri
+cd kutri-resilience-index
 python -m pip install -e ".[dev]"
 pytest                                   # 27 tests
 python -m kutri.reporting                # writes outputs/
