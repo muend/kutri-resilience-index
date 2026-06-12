@@ -1,6 +1,6 @@
 # KUTRI — Kaş Urban-Territorial Resilience Index
 
-[![tests](https://github.com/OWNER/kutri/actions/workflows/tests.yml/badge.svg)](https://github.com/OWNER/kutri/actions/workflows/tests.yml)
+[![tests](https://github.com/OWNER/kutri/actions/workflows/tests.yml/badge.svg)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![license](https://img.shields.io/badge/code-MIT-green)
 
