@@ -1,5 +1,6 @@
 # KUTRI — Kaş Urban-Territorial Resilience Index
 
+[![DOI](https://zenodo.org/badge/1266746318.svg)](https://doi.org/10.5281/zenodo.21030093)
 [![tests](https://github.com/muend/kutri-resilience-index/actions/workflows/tests.yml/badge.svg)](https://github.com/muend/kutri-resilience-index/actions/workflows/tests.yml)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![license](https://img.shields.io/badge/code-MIT-green)
