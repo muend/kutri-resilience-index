@@ -1,8 +1,8 @@
-﻿name: tests
+name: tests
 
 on:
   push:
-    branches: [main, publication-ready-kutri]
+    branches: [main]
   pull_request:
     branches: [main]
 
