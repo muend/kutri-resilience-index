@@ -1,6 +1,6 @@
-﻿# Changelog
+# Changelog
 
-## v0.1.0 — Publication-ready KUTRI prototype
+## v1.0.0 — Publication-ready KUTRI prototype
 
 Initial publication-ready release of the Kaş Urban-Territorial Resilience Index (KUTRI).
 
