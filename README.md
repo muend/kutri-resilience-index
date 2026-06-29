@@ -71,9 +71,10 @@ the behaviour an arithmetic mean would hide (OECD/JRC, 2008; Cutter et al., 2010
 ## Reproducibility
 
 ```bash
-git clone [https://github.com/muend/kutri-resilience-index.git](https://github.com/muend/kutri-resilience-index.git)
+git clone https://github.com/muend/kutri-resilience-index.git
 cd kutri-resilience-index
 python -m pip install -e ".[dev]"
 pytest                                   # 27 tests
 python -m kutri.reporting                # writes outputs/
 jupyter nbconvert --execute --to notebook --inplace notebooks/KUTRI_Engine.ipynb
+```
