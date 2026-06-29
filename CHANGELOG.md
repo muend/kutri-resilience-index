@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0.1 — Archival / DOI release
+
+### Changed
+- Version bump to mint a Zenodo DOI for citability.
+- Synced package, citation, and changelog versions.
+
+### Added
+- Zenodo DOI badge and citation metadata (added in the follow-up commit after DOI minting).
+
 ## v1.0.0 — Publication-ready KUTRI prototype
 
 Initial publication-ready release of the Kaş Urban-Territorial Resilience Index (KUTRI).
