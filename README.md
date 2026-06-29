@@ -3,6 +3,8 @@
 [![tests](https://github.com/muend/kutri-resilience-index/actions/workflows/tests.yml/badge.svg)](https://github.com/muend/kutri-resilience-index/actions/workflows/tests.yml)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![license](https://img.shields.io/badge/code-MIT-green)
+> **License scope:** MIT covers source code only. Raw data is not redistributed —
+> see [`data/README.md`](data/README.md).
 
 > **KUTRI is a reproducible urban-territorial resilience index prototype for Kaş/Bayındır,
 > Antalya, based on a five-pillar composite indicator framework.** It is a case-specific
@@ -19,6 +21,7 @@ separate nominal policy-weight scheme, and quantifies robustness through reprodu
 Monte-Carlo and tornado-sensitivity analyses. The headline result for Kaş is
 **≈ 43.3 / 100 (Moderate-Low)**. The repository packages the dataset, computation engine,
 tests, and documentation so a reviewer can clone, install, test, and reproduce the result.
+![Pillar scores](outputs/figures/pillar_scores.png)
 
 ## What KUTRI does
 
